@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhivan
 - 👀 I’m interested in NodeJS, PHP, ReactJS, ELK, BaaS
-- 🌱 I’m currently working on NodeJS, PHP - Wordpress, Wordpress API, ReactJS, Firebase
+- 🌱 I’m currently working on NodeJS, Wordpress, Wordpress RESTful API, ReactJS, Firebase
 - 📫 Contact me: minh.pn811@gmail.com
 
 <!---
