@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhivan
-- 👀 I’m interested in NodeJS, PHP, ReactJS, ELK, BaaS
-- 🌱 I’m currently working on NodeJS, Wordpress, Wordpress RESTful API, ReactJS, Firebase, RabbitMQ
+- 👀 I’m interested in NodeJS, NestJS, PHP, ReactJS, ELK, BaaS
+- 🌱 I’m currently working on NodeJS, NestJS, Wordpress, Wordpress RESTful API, ReactJS, Firebase, RabbitMQ, Kafka, gRPC, Microservices
 - 📫 Contact me: minhpn.work@gmail.com
 
 <!---
